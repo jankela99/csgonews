@@ -710,7 +710,7 @@ function ispisIzLocala(imena, id){
             </div></div></div>`;
 
             document.getElementById("izLocala").innerHTML = `
-            <h2>Zdravo ${imena[0]}!</h2>
+            <h2>Hello ${imena[0]}!</h2>
             <h3>Find out informations about your Dream Team below</h3>`
             document.getElementById("praviTim").innerHTML = ispis;
             $("#brisiLocal").click(brisiLocal);

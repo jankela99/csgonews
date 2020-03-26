@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name='description' content='The biggest and most comprehensive player database of CS:GO stats in the world!'>
+    <meta name='keywords' content='cs go players, cs go pros, professional cs go players, s1mple, n1ko, coldzera'>
+    <meta name="author" content="Lazar Janjic">
+    <link href="assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <title>Players</title>
+</head>
+<body>
+    <div id="strelicaGore">
+        <a href="#"><i class="fa fa-arrow-up"></i></a>
+    </div>
+    <div id="drzac">
+        <div id="findoutMore">
+            <p class="h3 p-2">Findout more by clicking on crosshair</p>
+        </div>
+    </div>
+    <header id="background">
+        <div id="meni">
+            <div id="logo">
+                <img src="assets/images/logo.png" alt="CS:GO logo">
+            </div>
+
+            <div id="navigacija">
+
+            </div>
+            
+        </div>
+
+        <a class="hamburger"><i class="fa fa-bars"></i></a>
+
+        <div class="meniResponsive"> 
+            
+            <div id="respMeni">
+
+            </div>
+
+            <a href="index.html" class="mb-5"><img src="assets/images/logo.png" alt="CS:GO logo"></a>
+        </div>
+
+        <div id="readMore" class="text-center">
+            <a href="#main"><i class="fa fa-crosshairs"></i></a>
+        </div>
+
+        
+
+        <div id="rgbdiv"></div>
+    </header>
+    
+    <main id="main">
+        <div class="container-fluid">
+            <div class="row m-5">
+                <div class="col-12 text-center">
+                    <h2>Players</h2>
+                </div>
+            </div>
+            
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-2">
+                    <form class="row d-flex justify-content-around">
+                        <div class="col-12">
+                            <div id="poravnaj">
+                                <input type="text" class="form-control" placeholder="Search" id="search">
+                                <i class="fa fa-search" id="btnSearch"></i>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <select class="form-control mt-5" id="sortEarning">
+                                <option value="0">Sort by</option>
+                                <option value="wASC">Winnings ascending</option>
+                                <option value="wDESC">Winnings descending</option>
+                            </select>
+                        </div>
+                        <div class="col-12 col-sm-4 col-lg-12">
+                            <div class="mt-5">
+                                <h2 class="h3">Teams:</h2>
+                                <div id="filterTim">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 col-lg-12">
+                            <div class="mt-5">
+                                <h2 class="h3">Winnings:</h2>
+                                <div id="filterEarning">
+
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-10">
+                    <div class="row" id="players">
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div class="container-fluid">
+        <footer class="row d-flex justify-content-center align-items-center pt-2 pt-5 mt-5" id="futer">
+            <div class="col-12 col-sm-6 col-md-4 d-flex justify-content-center align-items-center bolder" id="linkoviFuter">
+                
+            </div>
+
+            <div class="col-12 col-sm-6 col-md-4 d-flex justify-content-center align-items-center">
+                <img src="assets/images/logo.png" alt="Logo picture">
+            </div>
+            
+            <div class="col-12 col-md-4 d-flex justify-content-center align-items-center bolder" id="socFuter">
+                
+            </div>
+
+            <div class="col-12 d-flex justify-content-center align-items-center pt-2">
+                <p class="text-center">&copy; Copyright Jankela 2020 | All rights reserved!</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

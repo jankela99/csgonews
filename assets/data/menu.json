@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "content" : "Home",
+        "href" : "index.html"
+    },
+    {
+        "id" : 2,
+        "content" : "Teams",
+        "href" : "teams.html"
+    },
+    {
+        "id" : 3,
+        "content" : "Players",
+        "href" : "players.html"
+    },
+    {
+        "id" : 4,
+        "content" : "News",
+        "href" : "news.html"
+    },
+    {
+        "id" : 5,
+        "content" : "Your team",
+        "href" : "yourteam.html"
+    },
+    {
+        "id" : 6,
+        "content" : "Author",
+        "href" : "author.html"
+    }
+]

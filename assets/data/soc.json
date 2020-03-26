@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "icon" : "fa fa-facebook-official",
+        "href" : "https://www.facebook.com/HLTV.org/"
+    },
+    {
+        "id" : 2,
+        "icon" : "fa fa-twitch",
+        "href" : "https://www.twitch.tv/hltvorg"
+    },
+    {
+        "id" : 3,
+        "icon" : "fa fa-youtube-play",
+        "href" : "https://www.youtube.com/channel/UCXbsUubmNPK8XJFbkmlMcMg"
+    },
+    {
+        "id" : 4,
+        "icon" : "fa fa-twitter",
+        "href" : "https://twitter.com/HLTVorg"
+    }
+]

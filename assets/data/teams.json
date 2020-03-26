@@ -1,0 +1,182 @@
+[
+    {
+        "id" : 1,
+        "photo" : "Astralis.svg",
+        "ime" : "Astralis",
+        "rank" : "#1",
+        "location" : {
+            "id" : 1,
+            "name" : "Denmark"
+        },
+        "winnings" : 8072634,
+        "top30weeks" : 231,
+        "averagePlayersAge" : 24.5,
+        "players" : [
+            "Xyp9x",
+            "dupreeh",
+            "gla1ve",
+            "device",
+            "Magisk"
+        ]
+    },
+    {
+        "id" : 2,
+        "photo" : "EvilGeniuses.png",
+        "ime" : "Evil Geniuses",
+        "rank" : "#7",
+        "location" : {
+            "id" : 2,
+            "name" : "United States"
+        },
+        "winnings" : 679587,
+        "top30weeks" : 112,
+        "averagePlayersAge" : 22.4,
+        "players" : [
+            "stanislaw",
+            "tarik",
+            "Brehze",
+            "Ethan",
+            "CeRq"
+        ]
+    },
+    {
+        "id" : 3,
+        "photo" : "FaZe.svg",
+        "ime" : "FaZe",
+        "rank" : "#8",
+        "location" : {
+            "id" : 3,
+            "name" : "Europe"
+        },
+        "winnings" : 3477347,
+        "top30weeks" : 120,
+        "averagePlayersAge" : 24.2,
+        "players" : [
+            "olofmeister",
+            "NiKo",
+            "rain",
+            "coldzera",
+            "broky"
+        ]
+    },
+    {
+        "id" : 4,
+        "photo" : "fnatic.svg",
+        "ime" : "fnatic",
+        "rank" : "#4",
+        "location" : {
+            "id" : 4,
+            "name" : "Sweden"
+        },
+        "winnings" : 5104614,
+        "top30weeks" : 213,
+        "averagePlayersAge" : 24.2,
+        "players" : [
+            "flusha",
+            "JW",
+            "KRIMZ",
+            "Golden",
+            "Brollan"
+        ]
+    },
+    {
+        "id" : 5,
+        "photo" : "G2.png",
+        "ime" : "G2",
+        "rank" : "#5",
+        "location" : {
+            "id" : 5,
+            "name" : "France"
+        },
+        "winnings" : 2150684,
+        "top30weeks" : 52,
+        "averagePlayersAge" : 25.2,
+        "players" : [
+            "JaCkz",
+            "huNter-",
+            "kennyS",
+            "AmaNEk",
+            "nexa"
+        ]
+    },
+    {
+        "id" : 6,
+        "photo" : "liquid.svg",
+        "ime" : "Liquid",
+        "rank" : "#6",
+        "location" : {
+            "id" : 2,
+            "name" : "United States"
+        },
+        "winnings" : 4410812,
+        "top30weeks" : 151,
+        "averagePlayersAge" : 22.4,
+        "players" : [
+            "nitr0",
+            "NAF",
+            "EliGE",
+            "Stewie2K",
+            "Twistzz"
+        ]
+    },
+    {
+        "id" : 7,
+        "photo" : "mousesports.svg",
+        "ime" : "mousesports",
+        "rank" : "#3",
+        "location" : {
+            "id" : 3,
+            "name" : "Europe"
+        },
+        "winnings" : 3245917,
+        "top30weeks" : 47,
+        "averagePlayersAge" : 23.8,
+        "players" : [
+            "karigan",
+            "chrisJ",
+            "woxic",
+            "frozen",
+            "ropz"
+        ]
+    },
+    {
+        "id" : 8,
+        "photo" : "NatusVincere.svg",
+        "ime" : "NatusVincere",
+        "rank" : "#2",
+        "location" : {
+            "id" : 6,
+            "name" : "Russia"
+        },
+        "winnings" : 3912009,
+        "top30weeks" : 121,
+        "averagePlayersAge" : 21.7,
+        "players" : [
+            "flamie",
+            "s1mple",
+            "electronic",
+            "Boombl4",
+            "Perfecto"
+        ]
+    },
+    {
+        "id" : 9,
+        "photo" : "Vitality.svg",
+        "ime" : "Vitality",
+        "rank" : "#9",
+        "location" : {
+            "id" : 5,
+            "name" : "France"
+        },
+        "winnings" : 966805,
+        "top30weeks" : 68,
+        "averagePlayersAge" : 25.8,
+        "players" : [
+            "shox",
+            "RpK",
+            "apEX",
+            "ALEX",
+            "ZywOo"
+        ]
+    }
+]

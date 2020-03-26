@@ -1,0 +1,110 @@
+[
+    {
+        "id" : 1,
+        "naslov" : "NATUS VINCERE SWEEP G2 TO WIN IEM KATOWICE",
+        "tekstovi" : {
+            "glavni" : "With two dominant map wins — on Nuke and Mirage —, and a tight victory on Dust2, Natus Vincere claimed a 3-0 win over G2 in the grand final of IEM Katowice to secure the title in Poland.",
+            "dodatni1" : "The series started on G2's map pick, Nuke, where Natus Vincere put up a wall, claiming a 16-4 win with Kirill 'Boombl4' Mikhailov reaching a personal record rating-wise. Dust2 was more of a back and forth, but with an activated s1mple and Ilya 'Perfecto' Zalutskiy showing up clutch, the CIS side extended their series lead to 2-0. Mirage was a similar story to Nuke, as Natus Vincere had a near-perfect CT side to claim a straightforward victory in the series.",
+            "dodatni2" : "By winning IEM Katowice, Natus Vincere have secured their first Big Event win since StarSeries i-League Season 7 in April 2019, when Danylo 'Zeus' Teslenko and Ioann 'Edward' Sukhariev were still a part of their lineup. With Boombl4 and Perfecto lifting their first such trophy, Natus Vincere have also joined the Intel Grand Slam race."
+        },
+        "slika" : {
+            "src":"vest1.jpeg",
+            "alt" : "NaVi on tournament"
+        },
+        "datum" : "2020-03-01",
+        "autor" : {
+            "id" : 1,
+            "ime" : "Jankela"
+        }
+    },
+    {
+        "id" : 2,
+        "naslov" : "S1MPLE CLAIMS IEM KATOWICE MVP MEDAL",
+        "tekstovi" : {
+            "glavni" : "Natus Vincere star Aleksandr 's1mple' Kostyliev is the recipient of the Most Valuable Player (MVP) award of IEM Katowice.",
+            "dodatni1" : "The Ukrainian prodigy capped off a memorable individual tournament with a 1.50 rating in Na`Vi's 3-0 demolition job of G2 in the final, topping the scoreboard on Dust2, the closest of the three maps, where he posted a 1.35 rating.",
+            "dodatni2" : "s1mple leaves Katowice with the highest tournament rating overall (1.33), with his closest suitor being Vitality's Mathieu 'ZywOo' Herbaut, who posted a 1.24 rating. He had only one below-average rating, in the 8-16 defeat to FaZe on Nuke (0.57), and brought his best to the playoffs, in which he averaged a sensational 1.50 rating."
+        },
+        "slika" : {
+            "src":"vest2.jpeg",
+            "alt" : "Simple MVP"
+        },
+        "datum" : "2020-03-08",
+        "autor" : {
+            "id" : 2,
+            "ime" : "Jukara"
+        }
+    },
+    {
+        "id" : 3,
+        "naslov" : "ESL REVEALS BRACKETS FOR MINORS CLOSED QUALIFIERS",
+        "tekstovi" : {
+            "glavni" : "ESL has announced the first-round match-ups for the closed qualifiers for the Minors across four different regions.",
+            "dodatni1" : "The qualifying process for the Minors will continue later this week with the closed stage, featuring a double-elimination, best-of-three bracket. Half of the 96 slots were filled through invites, while the other half went to the leading teams of the open stage, which ran between January 31 and February 16.",
+            "dodatni2" : "The top eight teams in each of the four regions (Europe, the Americas, the CIS and Asia) will secure entry into their respective Minor, which will be held from April 26 through May 2 in Rio de Janeiro."
+        },
+        "slika" : {
+            "src":"vest3.jpeg",
+            "alt" : "Fnatic on Stage"
+        },
+        "datum" : "2020-03-04",
+        "autor" : {
+            "id" : 2,
+            "ime" : "Jukara"
+        }
+    },
+    {
+        "id" : 4,
+        "naslov" : "ALEX SET TO LEAVE VITALITY - REPORT",
+        "tekstovi" : {
+            "glavni" : "Alex 'ALEX' McMeekin has told his Vitality teammates of his intention to leave the team, according to a report from 1pv.fr.",
+            "dodatni1" : "The British tactician has shockingly decided to step down from the team due to personal reasons after growing weary of the constant traveling, with Vitality currently preparing for a busy period that could see the squad attend six events only in the next four months.",
+            "dodatni2" : "The announcement comes at a difficult time for Vitality, who occupy the ninth place in the rankings - their lowest since May 2019 - after a rough start to the year. The French team will have to play the BLAST Premier Showdown after finishing third in their group in London, and placed 9th-12th at last week's IEM Katowice."
+        },
+        "slika" : {
+            "src":"vest4.jpeg",
+            "alt" : "Alex on stage"
+        },
+        "datum" : "2020-03-07",
+        "autor" : {
+            "id" : 1,
+            "ime" : "Jankela"
+        }
+    },
+    {
+        "id" : 5,
+        "naslov" : "ZEUS: 'I MISS THE GAME, BUT I UNDERSTAND THAT MY DAYS ARE OVER'",
+        "tekstovi" : {
+            "glavni" : "In our last interview from IEM Katowice, we talked to Danylo 'Zeus' Teslenko five months after his retirement to find out how his life has changed and what he thinks of Natus Vincere's recent progress.",
+            "dodatni1" : "The Ukrainian veteran shared his disappointment upon finding out that he wouldn't be the trophy bearer at the Polish event following a decision made by ESL to adjust the broadcast because of the absence of the crowd in the tournament's playoffs.",
+            "dodatni2" : "He went on to discuss the topic of his retirement and the fashion in which he made the decision, which had come under criticism in an interview with s1mple, and detailed what he has been putting his focus on since hanging up his mouse, highlighting his work with his organization, pro100, and the release of the English version of his autobiography 'Against All Odds'."
+        },
+        "slika" : {
+            "src":"vest5.jpeg",
+            "alt" : "Zeus on stage"
+        },
+        "datum" : "2020-03-06",
+        "autor" : {
+            "id" : 1,
+            "ime" : "Jankela"
+        }
+    },
+    {
+        "id" : 6,
+        "naslov" : "EUNITED RELEASE TEAM",
+        "tekstovi" : {
+            "glavni" : "eUnited have parted ways with their CS:GO squad, team member Ryan 'freakazoid' Abadir has announced.",
+            "dodatni1" : "The announcement came halfway through the North American closed qualifier for the Americas Minor, in which the team are fielding Maxim 'wippie' Shepelev as a stand-in due to Jordan 'Zellsis' Montemurro being ineligible to play for the squad after he had qualified with Rugratz via the first open bracket.",
+            "dodatni2" : "Questions about eUnited's commitment to this project had been raised after Zellsis was brought in on a permanent basis but not as a contracted member of the organisation."
+        },
+        "slika" : {
+            "src":"vest6.jpeg",
+            "alt" : "Eunited photo"
+        },
+        "datum" : "2020-03-05",
+        "autor" : {
+            "id" : 2,
+            "ime" : "Jukara"
+        }
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "id" : 1,
+        "nick" : "ALEX",
+        "name" : {
+            "firstname" : "Alex",
+            "lastname" : "McMeekin"
+        },
+        "team" : {
+            "id" : 9,
+            "name" : "Vitality"
+        },
+        "age" : 24,
+        "photo" : "alex.png",
+        "winnings" : 238447,
+        "trophies" : 3
+    },
+    {
+        "id" : 2,
+        "nick" : "AmaNEk",
+        "name" : {
+            "firstname" : "François",
+            "lastname" : "Delaunay"
+        },
+        "team" : {
+            "id" : 5,
+            "name" : "G2"
+        },
+        "age" : 26,
+        "photo" : "AmaNEk.png",
+        "winnings" : 188465,
+        "trophies" : 0
+    },
+    {
+        "id" : 3,
+        "nick" : "apEX",
+        "name" : {
+            "firstname" : "Dan",
+            "lastname" : "Madesclaire"
+        },
+        "team" : {
+            "id" : 9,
+            "name" : "Vitality"
+        },
+        "age" : 27,
+        "photo" : "apEX.png",
+        "winnings" : 710649,
+        "trophies" : 15
+    },
+    {
+        "id" : 4,
+        "nick" : "Boombl4",
+        "name" : {
+            "firstname" : "Kirill",
+            "lastname" : "Mikhailov"
+        },
+        "team" : {
+            "id" : 8,
+            "name" : "NatusVincere"
+        },
+        "age" : 21,
+        "photo" : "Boombl4.png",
+        "winnings" : 126465,
+        "trophies" : 1
+    },
+    {
+        "id" : 5,
+        "nick" : "Brehze",
+        "name" : {
+            "firstname" : "Vincent",
+            "lastname" : "Cayonte"
+        },
+        "team" : {
+            "id" : 2,
+            "name" : "Evil Geniuses"
+        },
+        "age" : 21,
+        "photo" : "Brehze.png",
+        "winnings" : 312367,
+        "trophies" : 4
+    },
+    {
+        "id" : 6,
+        "nick" : "broky",
+        "name" : {
+            "firstname" : "Helvijs",
+            "lastname" : "Saukants"
+        },
+        "team" : {
+            "id" : 3,
+            "name" : "FaZe"
+        },
+        "age" : 19,
+        "photo" : "broky.png",
+        "winnings" : 94263,
+        "trophies" : 1
+    },
+    {
+        "id" : 7,
+        "nick" : "Brollan",
+        "name" : {
+            "firstname" : "Ludvig",
+            "lastname" : "Brolin"
+        },
+        "team" : {
+            "id" : 4,
+            "name" : "fnatic"
+        },
+        "age" : 17,
+        "photo" : "Brollan.png",
+        "winnings" : 166459,
+        "trophies" : 1
+    },
+    {
+        "id" : 8,
+        "nick" : "CeRq",
+        "name" : {
+            "firstname" : "Tsvetelin",
+            "lastname" : "Dimitrov"
+        },
+        "team" : {
+            "id" : 2,
+            "name" : "Evil Geniuses"
+        },
+        "age" : 20,
+        "photo" : "CeRq.png",
+        "winnings" : 296760,
+        "trophies" : 4
+    },
+    {
+        "id" : 9,
+        "nick" : "chrisJ",
+        "name" : {
+            "firstname" : "Chris",
+            "lastname" : "de Jong"
+        },
+        "team" : {
+            "id" : 7,
+            "name" : "mousesports"
+        },
+        "age" : 29,
+        "photo" : "chrisJ.png",
+        "winnings" : 559616,
+        "trophies" : 8
+    },
+    {
+        "id" : 10,
+        "nick" : "coldzera",
+        "name" : {
+            "firstname" : "Marcelo",
+            "lastname" : "David"
+        },
+        "team" : {
+            "id" : 3,
+            "name" : "FaZe"
+        },
+        "age" : 25,
+        "photo" : "coldzera.png",
+        "winnings" : 962699,
+        "trophies" : 14
+    },
+    {
+        "id" : 11,
+        "nick" : "dev1ce",
+        "name" : {
+            "firstname" : "Nicolai",
+            "lastname" : "Reedtz"
+        },
+        "team" : {
+            "id" : 1,
+            "name" : "Astralis"
+        },
+        "age" : 24,
+        "photo" : "device.png",
+        "winnings" : 1714501,
+        "trophies" : 24
+    },
+    {
+        "id" : 12,
+        "nick" : "dupreeh",
+        "name" : {
+            "firstname" : "Peter",
+            "lastname" : "Rasmussen"
+        },
+        "team" : {
+            "id" : 1,
+            "name" : "Astralis"
+        },
+        "age" : 26,
+        "photo" : "dupreeh.png",
+        "winnings" : 1753123,
+        "trophies" : 24
+    },
+    {
+        "id" : 13,
+        "nick" : "electronic",
+        "name" : {
+            "firstname" : "Denis",
+            "lastname" : "Sharipov"
+        },
+        "team" : {
+            "id" : 8,
+            "name" : "NatusVincere"
+        },
+        "age" : 21,
+        "photo" : "electronic.png",
+        "winnings" : 436894,
+        "trophies" : 7
+    },
+    {
+        "id" : 14,
+        "nick" : "EliGE",
+        "name" : {
+            "firstname" : "Jonathan",
+            "lastname" : "Jablonowski"
+        },
+        "team" : {
+            "id" : 6,
+            "name" : "Liquid"
+        },
+        "age" : 22,
+        "photo" : "EliGE.png",
+        "winnings" : 879482,
+        "trophies" : 9
+    },
+    {
+        "id" : 15,
+        "nick" : "Ethan",
+        "name" : {
+            "firstname" : "Ethan",
+            "lastname" : "Arnold"
+        },
+        "team" : {
+            "id" : 2,
+            "name" : "Evil Geniuses"
+        },
+        "age" : 20,
+        "photo" : "Ethan.png",
+        "winnings" : 312227,
+        "trophies" : 4
+    },
+    {
+        "id" : 16,
+        "nick" : "flamie",
+        "name" : {
+            "firstname" : "Ethan",
+            "lastname" : "Arnold"
+        },
+        "team" : {
+            "id" : 8,
+            "name" : "NatusVincere"
+        },
+        "age" : 22,
+        "photo" : "flamie.png",
+        "winnings" : 691160,
+        "trophies" : 14
+    },
+    {
+        "id" : 17,
+        "nick" : "flusha",
+        "name" : {
+            "firstname" : "Robin",
+            "lastname" : "Rönnquist"
+        },
+        "team" : {
+            "id" : 4,
+            "name" : "fnatic"
+        },
+        "age" : 26,
+        "photo" : "flusha.png",
+        "winnings" : 820491,
+        "trophies" : 22
+    },
+    {
+        "id" : 18,
+        "nick" : "frozen",
+        "name" : {
+            "firstname" : "David",
+            "lastname" : "Čerňanský"
+        },
+        "team" : {
+            "id" : 7,
+            "name" : "mousesports"
+        },
+        "age" : 17,
+        "photo" : "frozen.png",
+        "winnings" : 230068,
+        "trophies" : 4
+    },
+    {
+        "id" : 19,
+        "nick" : "gla1ve",
+        "name" : {
+            "firstname" : "Lukas",
+            "lastname" : "Rossander"
+        },
+        "team" : {
+            "id" : 1,
+            "name" : "Astralis"
+        },
+        "age" : 24,
+        "photo" : "gla1ve.png",
+        "winnings" : 1586348,
+        "trophies" : 19
+    },
+    {
+        "id" : 20,
+        "nick" : "Golden",
+        "name" : {
+            "firstname" : "Maikil",
+            "lastname" : "Selim"
+        },
+        "team" : {
+            "id" : 4,
+            "name" : "fnatic"
+        },
+        "age" : 26,
+        "photo" : "Golden.png",
+        "winnings" : 389427,
+        "trophies" : 3
+    },
+    {
+        "id" : 21,
+        "nick" : "huNter-",
+        "name" : {
+            "firstname" : "Nemanja",
+            "lastname" : "Kovač"
+        },
+        "team" : {
+            "id" : 5,
+            "name" : "G2"
+        },
+        "age" : 24,
+        "photo" : "huNter-.png",
+        "winnings" : 124287,
+        "trophies" : 0
+    },
+    {
+        "id" : 22,
+        "nick" : "JaCkz",
+        "name" : {
+            "firstname" : "Audric",
+            "lastname" : "Jug"
+        },
+        "team" : {
+            "id" : 5,
+            "name" : "G2"
+        },
+        "age" : 27,
+        "photo" : "JaCkz.png",
+        "winnings" : 159727,
+        "trophies" : 0
+    },
+    {
+        "id" : 23,
+        "nick" : "JW",
+        "name" : {
+            "firstname" : "Jesper",
+            "lastname" : "Wecksell"
+        },
+        "team" : {
+            "id" : 4,
+            "name" : "fnatic"
+        },
+        "age" : 25,
+        "photo" : "JW.png",
+        "winnings" : 838571,
+        "trophies" : 22
+    },
+    {
+        "id" : 24,
+        "nick" : "karrigan",
+        "name" : {
+            "firstname" : "Finn",
+            "lastname" : "Andersen"
+        },
+        "team" : {
+            "id" : 7,
+            "name" : "mousesports"
+        },
+        "age" : 29,
+        "photo" : "karrigan.png",
+        "winnings" : 956661,
+        "trophies" : 16
+    },
+    {
+        "id" : 25,
+        "nick" : "kennyS",
+        "name" : {
+            "firstname" : "Kenny",
+            "lastname" : "Schrub"
+        },
+        "team" : {
+            "id" : 5,
+            "name" : "G2"
+        },
+        "age" : 24,
+        "photo" : "kennyS.png",
+        "winnings" : 652570,
+        "trophies" : 11
+    },
+    {
+        "id" : 26,
+        "nick" : "KRIMZ",
+        "name" : {
+            "firstname" : "Freddy",
+            "lastname" : "Johansson"
+        },
+        "team" : {
+            "id" : 4,
+            "name" : "fnatic"
+        },
+        "age" : 25,
+        "photo" : "KRIMZ.png",
+        "winnings" : 816740,
+        "trophies" : 21
+    },
+    {
+        "id" : 27,
+        "nick" : "Magisk",
+        "name" : {
+            "firstname" : "Emil",
+            "lastname" : "Reif"
+        },
+        "team" : {
+            "id" : 1,
+            "name" : "Astralis"
+        },
+        "age" : 22,
+        "photo" : "Magisk.png",
+        "winnings" : 1335818,
+        "trophies" : 17
+    },
+    {
+        "id" : 28,
+        "nick" : "NAF",
+        "name" : {
+            "firstname" : "Keith",
+            "lastname" : "Markovic"
+        },
+        "team" : {
+            "id" : 6,
+            "name" : "Liquid"
+        },
+        "age" : 22,
+        "photo" : "NAF.png",
+        "winnings" : 932649,
+        "trophies" : 11
+    },
+    {
+        "id" : 29,
+        "nick" : "nexa",
+        "name" : {
+            "firstname" : "Nemanja",
+            "lastname" : "Isaković"
+        },
+        "team" : {
+            "id" : 5,
+            "name" : "G2"
+        },
+        "age" : 22,
+        "photo" : "nexa.png",
+        "winnings" : 163424,
+        "trophies" : 1
+    },
+    {
+        "id" : 30,
+        "nick" : "NiKo",
+        "name" : {
+            "firstname" : "Nikola",
+            "lastname" : "Kovač"
+        },
+        "team" : {
+            "id" : 3,
+            "name" : "FaZe"
+        },
+        "age" : 23,
+        "photo" : "NiKo.png",
+        "winnings" : 705736,
+        "trophies" : 10
+    },
+    {
+        "id" : 31,
+        "nick" : "nitr0",
+        "name" : {
+            "firstname" : "Nick",
+            "lastname" : "Cannella"
+        },
+        "team" : {
+            "id" : 6,
+            "name" : "Liquid"
+        },
+        "age" : 24,
+        "photo" : "nitr0.png",
+        "winnings" : 888532,
+        "trophies" : 9
+    },
+    {
+        "id" : 32,
+        "nick" : "olofmeister",
+        "name" : {
+            "firstname" : "Olof",
+            "lastname" : "Kajbjer"
+        },
+        "team" : {
+            "id" : 3,
+            "name" : "FaZe"
+        },
+        "age" : 28,
+        "photo" : "olofmeister.png",
+        "winnings" : 866246,
+        "trophies" : 25
+    },
+    {
+        "id" : 33,
+        "nick" : "Perfecto",
+        "name" : {
+            "firstname" : "Ilya",
+            "lastname" : "Zalutskiy"
+        },
+        "team" : {
+            "id" : 8,
+            "name" : "NatusVincere"
+        },
+        "age" : 20,
+        "photo" : "Perfecto.png",
+        "winnings" : 82387,
+        "trophies" : 1
+    },
+    {
+        "id" : 34,
+        "nick" : "rain",
+        "name" : {
+            "firstname" : "Håvard",
+            "lastname" : "Nygaard"
+        },
+        "team" : {
+            "id" : 3,
+            "name" : "FaZe"
+        },
+        "age" : 25,
+        "photo" : "rain.png",
+        "winnings" : 724616,
+        "trophies" : 10
+    },
+    {
+        "id" : 35,
+        "nick" : "ropz",
+        "name" : {
+            "firstname" : "Robin",
+            "lastname" : "Kool"
+        },
+        "team" : {
+            "id" : 7,
+            "name" : "mousesports"
+        },
+        "age" : 20,
+        "photo" : "ropz.png",
+        "winnings" : 471531,
+        "trophies" : 8
+    },
+    {
+        "id" : 36,
+        "nick" : "RpK",
+        "name" : {
+            "firstname" : "Cédric",
+            "lastname" : "Guipouy"
+        },
+        "team" : {
+            "id" : 9,
+            "name" : "Vitality"
+        },
+        "age" : 30,
+        "photo" : "RpK.png",
+        "winnings" : 427295,
+        "trophies" : 4
+    },
+    {
+        "id" : 37,
+        "nick" : "s1mple",
+        "name" : {
+            "firstname" : "Aleksandr",
+            "lastname" : "Kostyliev"
+        },
+        "team" : {
+            "id" : 8,
+            "name" : "NatusVincere"
+        },
+        "age" : 22,
+        "photo" : "s1mple.png",
+        "winnings" : 636486,
+        "trophies" : 8
+    },
+    {
+        "id" : 38,
+        "nick" : "shox",
+        "name" : {
+            "firstname" : "Richard",
+            "lastname" : "Papillon"
+        },
+        "team" : {
+            "id" : 9,
+            "name" : "Vitality"
+        },
+        "age" : 29,
+        "photo" : "shox.png",
+        "winnings" : 560941,
+        "trophies" : 15
+    },
+    {
+        "id" : 39,
+        "nick" : "stanislaw",
+        "name" : {
+            "firstname" : "Peter",
+            "lastname" : "Jarguz"
+        },
+        "team" : {
+            "id" : 2,
+            "name" : "Evil Geniuses"
+        },
+        "age" : 25,
+        "photo" : "stanislaw.png",
+        "winnings" : 404532,
+        "trophies" : 3
+    },
+    {
+        "id" : 40,
+        "nick" : "Stewie2K",
+        "name" : {
+            "firstname" : "Jake",
+            "lastname" : "Yip"
+        },
+        "team" : {
+            "id" : 6,
+            "name" : "Liquid"
+        },
+        "age" : 22,
+        "photo" : "Stewie2K.png",
+        "winnings" : 1030240,
+        "trophies" : 12
+    },
+    {
+        "id" : 41,
+        "nick" : "tarik",
+        "name" : {
+            "firstname" : "Tarik",
+            "lastname" : "Celik"
+        },
+        "team" : {
+            "id" : 2,
+            "name" : "Evil Geniuses"
+        },
+        "age" : 24,
+        "photo" : "tarik.png",
+        "winnings" : 697752,
+        "trophies" : 7
+    },
+    {
+        "id" : 42,
+        "nick" : "Twistzz",
+        "name" : {
+            "firstname" : "Russel",
+            "lastname" : "Van Dulken"
+        },
+        "team" : {
+            "id" : 6,
+            "name" : "Liquid"
+        },
+        "age" : 20,
+        "photo" : "Twistzz.png",
+        "winnings" : 786022,
+        "trophies" : 9
+    },
+    {
+        "id" : 43,
+        "nick" : "woxic",
+        "name" : {
+            "firstname" : "Özgür",
+            "lastname" : "Eker"
+        },
+        "team" : {
+            "id" : 7,
+            "name" : "mousesports"
+        },
+        "age" : 21,
+        "photo" : "woxic.png",
+        "winnings" : 283569,
+        "trophies" : 3
+    },
+    {
+        "id" : 44,
+        "nick" : "Xyp9x",
+        "name" : {
+            "firstname" : "Andreas",
+            "lastname" : "Højsleth"
+        },
+        "team" : {
+            "id" : 1,
+            "name" : "Astralis"
+        },
+        "age" : 24,
+        "photo" : "Xyp9x.png",
+        "winnings" : 1756934,
+        "trophies" : 24
+    },
+    {
+        "id" : 45,
+        "nick" : "ZywOo",
+        "name" : {
+            "firstname" : "Mathieu",
+            "lastname" : "Herbaut"
+        },
+        "team" : {
+            "id" : 9,
+            "name" : "Vitality"
+        },
+        "age" : 19,
+        "photo" : "ZywOo.png",
+        "winnings" : 228821,
+        "trophies" : 3
+    }
+]

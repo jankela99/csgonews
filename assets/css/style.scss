@@ -1,0 +1,300 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
+
+$rez0: 1390px;
+$rez1: 1120px;
+$rez2: 992px;
+$rez3: 768px;
+$rez4: 576px;
+$rez5: 480px;
+$rez6: 386px;
+
+@mixin rez0 {
+    @media (max-width: #{$rez0}){
+        @content;
+    }
+}
+
+@mixin rez1 {
+    @media (max-width: #{$rez1}){
+        @content;
+    }
+}
+
+
+@mixin rez2 {
+    @media (max-width: #{$rez2}){
+        @content;
+    }
+}
+
+@mixin rez3 {
+    @media (max-width: #{$rez3}){
+        @content;
+    }
+}
+
+@mixin rez4 {
+    @media (max-width: #{$rez4}){
+        @content;
+    }
+}
+
+@mixin rez5 {
+    @media (max-width: #{$rez5}){
+        @content;
+    }
+}
+
+@mixin rez6 {
+    @media (max-width: #{$rez6}){
+        @content;
+    }
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Oxanium', ;
+    background-color: #141414;
+    color: whitesmoke;
+    .btn-primary {
+        color: #fff;
+        background-color: #951941;
+        border-color: #951941;
+    }
+    #strelicaGore{
+        position: fixed;
+        bottom: 3%;
+        right: 2%;
+        z-index: 500;
+        display: none;
+        a{
+            text-decoration: none;
+            padding: 7px;
+            i{
+                font-size: 30px;
+                color: #951941;
+            }
+        }
+    }
+    .hamburger {
+        display: none;
+        position: fixed;
+        top: 3%;
+        left: 3%;
+        z-index: 1000;
+        text-decoration: none;
+        i{
+            font-size: 30px;
+            color: #951941;
+        }
+        @include rez2{
+            display:block;
+        }
+    }
+    .meniResponsive{
+        position: fixed;
+        top:0;
+        bottom: 0;
+        left: 0;
+        z-index: 999;
+        width: 320px;
+        background: #141414;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        transform: translateX(-400px);
+        transition: 0.7s;
+        ul{
+            list-style-type: none;
+            li{
+                padding: 10px;
+                a{
+                    text-decoration: none;
+                    color:whitesmoke;
+                    font-weight: bolder;
+                }
+            }
+        }
+        
+    }
+    .meniResp1{
+        transform: translateX(0px);
+    }
+    #pocetna{
+        a{
+            text-decoration: none;
+            &:hover{
+                color: #951941;
+            }
+        }
+    }
+    #drzac{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        #yourTeam{
+            position: absolute;
+            width: 400px;
+            background-color: rgba(149, 25, 65, 0.6);
+            padding: 2%;
+            border-radius: 20px;
+            z-index: 11;
+        }
+        
+    }
+    #findoutMore{
+        position: absolute;
+        bottom: 20%;
+        background-color: #951941;
+        border-radius: 5px;
+    }
+    #background{
+        background-image: url('../images/back2.jpg');
+
+        height: 100vh;
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        #rgbdiv{
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.3);
+            z-index: 10;
+            position: absolute;
+            top:0px;
+
+        }
+        #meni{
+            height: 100vh;
+            width: 250px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            z-index: 11;
+            position: absolute;
+            @include rez2{
+                display: none;
+            }
+            #navigacija{
+                display:flex;
+                height: 75vh;
+                ul{
+                    list-style-type: none;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: space-around;
+                    li{
+                        a{
+                            text-decoration:none;
+                            color:whitesmoke;
+                            font-size: 1.2rem;
+                            padding:10px 20px;
+                        }
+                    }
+                }
+            }
+            #srce{
+                color: #951941;
+            }
+        }
+        #readMore{
+            position: absolute;
+            bottom: 10%;
+            left: 48%;
+            z-index: 12;
+            
+            a{
+                i{
+                    position:relative;
+                    animation: pulsiraj 2s infinite;
+                }
+                text-decoration: none;
+                font-size: 3rem;
+                border-radius: 5px;
+                color: #ffffff;
+                &:hover{
+                    color: #951941;
+                }
+            }
+        }
+    }
+    #main{
+        .linija{
+            border-bottom: 1px solid #951941;
+
+        }
+        .drzac{
+            border-radius: 10px;
+            border:2px solid #951941;
+            color:whitesmoke;
+        }
+        #autor1{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        min-height: 70vh;
+    }
+    #poravnaj{
+        position: relative;
+        left: 0;
+        top: 0;
+        #btnSearch{
+            position: absolute;
+            top: 1px;
+            right: 0;
+            padding: 9px;
+            color: #951941;
+            border: 1px solid #951941;
+            border-radius: 2px;
+        }
+    }
+    #linkoviFuter, #socFuter{
+        ul{
+            list-style-type: none;
+            li{
+                a{
+                    text-decoration: none;
+                    color: whitesmoke;
+                }
+            }
+        }
+    }
+    footer{
+        border-top: 2px solid #951941;
+    }
+    .aktivan{
+        border-bottom: 3px solid #951941;
+    }
+}
+@keyframes pulsiraj{
+    0%{
+        transform: scale(1);
+
+    }
+    50%{
+        transform: scale(1.5);
+        color: #951941;
+    }
+    100%{
+        transform: scale(1);
+    }
+}
